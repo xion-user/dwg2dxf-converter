@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.log
+*.dxf
+*.dwg
+.env
